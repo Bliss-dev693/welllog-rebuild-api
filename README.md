@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # welllog-rebuild-api
 
@@ -31,3 +32,6 @@ JSON 请求示例：
 
 - model_Main2.h5: 主模型文件
 - scaler_X2.pkl / scaler_y2.pkl: 训练时使用的标准化器
+=======
+# welllog-rebuild-api
+>>>>>>> 8ad0a685f1813ab60cda238690dc3c9146c487ed
